@@ -1,0 +1,121 @@
+body{
+    width: 100%;
+    background-color: #1f2937;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav-bar{
+    display: inline-flex;
+    padding: 10px 90px;
+    padding-left: 855px;
+}
+.header{
+    display: inline-flex;
+    padding: 10px 90px;
+    padding-left: 810px;
+}
+.logo{
+    padding-right: 540px;
+    font-size: 35px;
+    color: #f9faf8;
+}
+.head-links{
+    display: inline-flex;
+    padding: 10px 2px;
+}
+.hlt{
+    padding: 20px 10px;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.php{
+    padding: 100px 60px;
+    margin: 5px 50px;
+    background-color: aliceblue;
+}
+.box{
+    display: flex;
+    padding: 5px 5px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.body{
+    background-color: white;
+    border: solid white;
+    margin: solid white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 290px;
+    padding-right: 800px;
+}
+.random{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    background-color: white;
+    padding-top: 40px;
+}
+.main{
+    background-color: white;
+}
+.zone{
+    display: inline-flex;
+    border: solid lightskyblue;
+    padding: 90px 90px;
+    border-radius: 20px;
+    color: white;
+}
+.box-zone{
+    display: inline-flex;
+    padding: 5px 1px;
+    padding-left: 650px;
+}
+.quote{
+    background-color: #e5e7eb;
+    padding: 50px 30px;
+    border: solid #e5e7eb;
+    text-align: center;
+    font-size: 36px;
+    font-family: light italic;
+    color: #1f2937;
+}
+.rest{
+    background-color: white;
+    padding: 100px;
+    padding-left: 1010px;
+}
+.rest-section{
+    display: inline-flex;
+    border: 2px solid cornflowerblue;
+    border-radius: 20px;
+    background-color: cornflowerblue;
+    padding: 40px ;
+}
+button{
+    padding: 20px;
+    margin: 30px;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 5px;
+    color: #f9faf8;
+}
+.footer{
+    text-align: center;
+    color: #e5e7eb;
+}
+.sub-zone{
+    padding: 5px 5px;
+}
+.fh{
+    font-size: 48px;
+    color: #f9faf8;
+    width: 900;
+    font-weight: 900;
+}
+.call{
+    border: 1px solid white;
+}
+.ph{
+    color: gray;
+}
